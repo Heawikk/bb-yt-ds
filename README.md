@@ -1,4 +1,4 @@
-# Zapret for YouTube & Discord
+# [BringBack] Zapret for YouTube & Discord
 ## Обход блокировок YouTube и Discord
 
 ## 📦 Запуск
